@@ -1,0 +1,20 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "Youtube Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Javacript",
+    "Node.js",
+    "MongoDb"
+  ],
+  "author": "Pratik S",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.1",
+    "prettier": "^3.2.5"
+  }
+}
